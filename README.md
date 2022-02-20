@@ -8,3 +8,4 @@ SUBU-AI, 2022 yılında Sakarya Uygulamalı Bilimler Üniversitesi'nde kurulmuş
 </p>
 
 Linkedin -> https://www.linkedin.com/company/subu-ai
+E Posta -> ai.subu.2022@gmail.com
